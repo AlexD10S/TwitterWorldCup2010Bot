@@ -37,7 +37,7 @@ public class TwitterAutoBot {
     }
     //TODO: Send just the tweet corresponding to the current day/
     private static void sendJustDaulyTweets(){
-        
+
     }
 
     private static void sendTweet(String line) {
