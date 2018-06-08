@@ -1,9 +1,9 @@
 Group A:
 
-Jun/11 16:00 South Africa 1-1 Mexico      @ Soccer City, Johannesburg
+Jun/8 16:00 South Africa 1-1 Mexico      @ Soccer City, Johannesburg
 Jun/11 20:30 Uruguay 0-0 France      @ Cape Town Stadium, Cape Town
  
-Jun/16 20:30 South Africa 0-3 Uruguay    @ Loftus Versfeld Stadium, Pretoria
+Jun/8 20:30 South Africa 0-3 Uruguay    @ Loftus Versfeld Stadium, Pretoria
 
 Jun/17 20:30 France 0-2 Mexico     @ Peter Mokaba Stadium, Polokwane
 
@@ -90,10 +90,46 @@ Jun/25 16:00 North Korea 0-3 Côte d'Ivoire   @ Mbombela Stadium, Nelspruit
 Group H:
 
 Jun/16 13:30 Honduras 0-1 Chile             @ Mbombela Stadium, Nelspruit
-Jun/16 16:00 Spain 0-1 Switzerland       @ Moses Mabhida Stadium, Durban
+Jun/16 16:00 Spain 0-1 Switzerland          @ Moses Mabhida Stadium, Durban
 
 Jun/21 16:00 Chile 1-0 Switzerland          @ Nelson Mandela Bay Stadium, Port Elizabeth
 Jun/21 20:30 Spain 2-0 Honduras             @ Ellis Park Stadium, Johannesburg
 
-Jun/25 20:30 Chile 1-2 Spain          @ Loftus Versfeld Stadium, Pretoria
+Jun/25 20:30 Chile 1-2 Spain                @ Loftus Versfeld Stadium, Pretoria
 Jun/25 20:30 Switzerland 0-0 Honduras       @ Free State Stadium, Bloemfontein
+
+Round 16:
+
+Jun/26 16:00 Uruguay 2-1 South Korea      @ Nelson Mandela Bay Stadium, Port Elizabeth
+Jun/26 20:30 United States 1-2 Ghana      @ Royal Bafokeng Stadium, Rustenburg
+
+Jun/27 16:00 Germany 4-1 England          @ Free State Stadium, Bloemfontein
+Jun/27 20:30 Argentina 3-1 Mexico         @ Soccer City, Johannesburg
+
+Jun/28 16:00 Netherlands 2-1 Slovakia     @ Moses Mabhida Stadium, Durban
+Jun/28 20:30 Brazil 3-0 Chile             @ Ellis Park Stadium, Johannesburg
+
+Jun/29 16:00 Paraguay 0-0 Japan           @ Loftus Versfeld Stadium, Pretoria
+Jun/29 20:30 Spain 1-0 Portugal           @ Cape Town Stadium, Cape Town
+
+Quarter-finals:
+
+Jul/2 16:00 Netherlands 2-1 Brazil      @ Nelson Mandela Bay Stadium, Port Elizabeth
+Jul/2 20:30 Uruguay 1-1 Ghana           @ Soccer City, Johannesburg
+
+Jul/3 16:00 Argentina 0-4 Germany      @ Cape Town Stadium, Cape Town
+Jul/3 20:30 Paraguay 0-1 Spain         @ Ellis Park Stadium, Johannesburg
+
+Semi-finals:
+
+Jul/6 20:30 Uruguay 2-3 Netherlands    @ Cape Town Stadium, Cape Town
+Jul/7 20:30 Germany 0-1 Spain          @ Moses Mabhida Stadium, Durban
+
+Third place play-off:
+
+Jul/10 20:30 Uruguay 2-3 Germany      @ Nelson Mandela Bay Stadium, Port Elizabeth
+
+Finals:
+
+Jul/11 20:30 Netherlands 0-1 Spain    @ Soccer City, Johannesburg
+
